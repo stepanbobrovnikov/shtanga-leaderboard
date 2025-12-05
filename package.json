@@ -1,7 +1,7 @@
 {
-  "name": "polymarket-leaderboard",
+  "name": "shtanga-leaderboard",
   "version": "1.0.0",
-  "description": "Polymarket Tournament Leaderboard - Full Stack Application",
+  "description": "Shtanga Tournament Leaderboard - Full Stack Application",
   "private": true,
   "workspaces": [
     "backend",
@@ -17,7 +17,7 @@
     "refresh": "cd backend && npm run refresh",
     "test": "cd backend && npm test"
   },
-  "keywords": ["polymarket", "leaderboard", "blockchain", "ethereum", "polygon"],
+  "keywords": ["shtanga", "leaderboard", "blockchain", "ethereum", "polygon"],
   "author": "",
   "license": "MIT"
 }

@@ -1,7 +1,7 @@
 {
-  "name": "polymarket-leaderboard-backend",
+  "name": "shtanga-leaderboard-backend",
   "version": "1.0.0",
-  "description": "Backend API for Polymarket Tournament Leaderboard",
+  "description": "Backend API for Shtanga Tournament Leaderboard",
   "main": "dist/index.js",
   "scripts": {
     "dev": "tsx watch src/index.ts",
